@@ -1,0 +1,2 @@
+class AddNameToSongsController < ApplicationController
+end
