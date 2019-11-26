@@ -1,0 +1,2 @@
+class AddNameToSong < ApplicationRecord
+end
